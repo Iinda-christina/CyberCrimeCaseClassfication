@@ -1,8 +1,8 @@
-# Cyberthon - Cyber Crime Case Classification
+# Cyber Crime Case Classification
 
 ## 📌 Project Overview
 
-Cyberthon is an AI-driven cybercrime classification system designed to assist law enforcement and citizens in identifying and categorizing cybercrime cases effectively. The model classifies cases based on user input and provides guided assistance for filing reports on the National Cyber Crime Reporting Portal (NCRP).
+This is an AI-driven cybercrime classification system designed to assist law enforcement and citizens in identifying and categorizing cybercrime cases effectively. The model classifies cases based on user input and provides guided assistance for filing reports on the National Cyber Crime Reporting Portal (NCRP).
 
 ## 🔍 Key Features
 
